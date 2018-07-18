@@ -1,0 +1,1 @@
+Bamazon is a "shopping" js app linked to mysql where you identify which product you would like to buy, and then enter the quantity.  This app will update the quantities that you have selected to "purchase".
